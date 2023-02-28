@@ -41,7 +41,7 @@ a:hover {
 
 /* ページ */
 #page {
-	width: 980px; 
+	width: 960px; 
 	margin: 0 auto;
 }
 
@@ -80,7 +80,7 @@ a:hover {
 
 #pageHead .globalNavi ul li {
 	list-style: none;
-	width: 196px;
+	width: 160px;
 	float: left;
 	border-left: solid 1px #000000;
 	padding: 0 10px;
@@ -141,7 +141,7 @@ a:hover {
 }
 
 #pageBodyMain {	
-	width: 980px;
+	width: 960px;
 	float: left;
 /*	background-color: #66CCFF; */
 }
@@ -329,6 +329,7 @@ a:hover {
 	/* border: 0px solid #000000; */
 	padding: 5px 10px;
 	text-align: left;
+	vertical-align: top;
 	font-family: 'Zen Old Mincho', serif; 
 	/* font-family: 'Times New Roman', sans-serif; */
 /*	width: 150px; */
@@ -429,8 +430,9 @@ figure {
 }
 
 #pageBodyMain .heading-typeC {
-	font-size: 14px;
+	font-size: 16px;
 	line-height: 1.429;
+	font-family: 'Zen Old Mincho', serif; 
 }
 
 /* 区切り線・余白 */
