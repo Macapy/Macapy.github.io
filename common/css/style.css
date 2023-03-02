@@ -41,7 +41,7 @@ a:hover {
 
 /* ページ */
 #page {
-	width: 960px; 
+	width: 980px; 
 	margin: 0 auto;
 }
 
@@ -80,7 +80,7 @@ a:hover {
 
 #pageHead .globalNavi ul li {
 	list-style: none;
-	width: 160px;
+	width: 140px;
 	float: left;
 	border-left: solid 1px #000000;
 	padding: 0 10px;
@@ -103,7 +103,7 @@ a:hover {
 	padding: 3px 3px;
 	/* font-family: 'Times New Roman', sans-serif; */
 	font-family: 'Zen Antique', serif;
-	font-size: 21px;
+	font-size: 18px;
 }
 #pageHead .globalNavi ul li a:hover,
 #pageHead .globalNavi ul li.current a {
@@ -112,7 +112,7 @@ a:hover {
 	color: #FFFFFF;
 	/* font-family: 'Times New Roman', sans-serif; */
 	font-family: 'Zen Antique', serif;
-	font-size: 21px;
+	font-size: 18px;
 }
 
 /* ページフッター */
@@ -141,7 +141,7 @@ a:hover {
 }
 
 #pageBodyMain {	
-	width: 960px;
+	width: 980px;
 	float: left;
 /*	background-color: #66CCFF; */
 }
@@ -319,7 +319,7 @@ a:hover {
 	border: 1.5px solid #000000; */
 	table-layout: fixed;
 	counter-reset: rowCount -1;
-	width: 860px; 
+	width: 880px; 
 	font-family: 'Zen Old Mincho', serif; 
 	/* font-family: 'Times New Roman', sans-serif; */
 /*	width: 100%;  */
