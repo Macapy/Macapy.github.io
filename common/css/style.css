@@ -311,13 +311,15 @@ a:hover {
 	font-size: 16px;
 	line-height: 1.429;
 	border: none;
-	margin: 20px 20px;
+	/* margin: 20px 20px; */
+	margin-left: 50px;
+	margin-right: 50px;
 	/* border: 1px solid #000000;
 	border-collapse: collapse;
 	border: 1.5px solid #000000; */
 	table-layout: fixed;
 	counter-reset: rowCount -1;
-	width: 940px; 
+	width: 860px; 
 	font-family: 'Zen Old Mincho', serif; 
 	/* font-family: 'Times New Roman', sans-serif; */
 /*	width: 100%;  */
