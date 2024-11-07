@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+	<meta charset="utf-8">
+	<title>FRG workshop 2023 in RIKEN</title>
+<link rel="stylesheet" href="common/css/normalize.css">
+<link rel="stylesheet" href="common/css/style.css">
+</head>
+<body>
+
+<div id="page">
+<p align="center"> RIKEN iTHEMS Workshop 2023 </p>
+<header id="pageHead">
+  <h1 id="siteTitle" align="center">
+    Functional Renormalization Group at RIKEN 2023<br>
+    －From condensed matter and particle physics to gravity－ 
+	</h1>
+	<h3 align="center">
+	  1/21(Sat.)-1/25(Wed.), 2023, RIKEN Wako Campus & Zoom
+ 	</h3>
+		<img src="common/images/img_01_01.jpg" alt ="" width="1000" height="360">
+
+	<nav class="globalNavi">
+		<ul>
+			<li class="current"><a href="home.html">Top</a></li>
+			<li><a href="program.html">Program </a></li>
+			<li><a href="abstracts.html">Abstract </a></li>
+			<li><a href="participants.html">Participant List </a></li>	
+			<li><a href="registration.html">Registration</a></li>
+		</ul>
+	</nav>
+</header>
+
+
+<div id="pageBody">
+	
+	<div id="pageBodyMain">
+	<article class="articleDetail">
+		<header class="articleDetailHead">
+			<h1 class="pageTitle">Overview</h1>
+			<h3 class="heading-typeB">Purpose</h3>
+			<p> 
+			  　Functional renormalization group (FRG) is a powerful theoretical tool to investigate physical systems described by field theory.
+			  Its application covers diverse areas of physics spanning from condensed matter and statistical physics to particle physics and gravity.
+			  The purpose of this two-day workshop is to overview the recent applications and progresses of FRG in various fields of physics, to discuss future directions, and to seek for possible new collaborations bridging different fields of physics.
+			<br> 	<br>
+			(This is an iTHEMS international workshop supported by <a href="https://ithems.riken.jp/en">RIKEN iTHEMS</a>.)
+			</p>
+
+			<h3 class="heading-typeB">Topics</h3>
+			<ul>
+			  <li> FRG in various fields of physics</li>
+			</ul>
+
+			<h3 class="heading-typeB">Date</h3>
+			<ul>
+				<li> 2023 1/21 (Sat.) - 2023 1/22 (Sun.) </li>
+			</ul>
+
+			<h3 class="heading-typeB">Place</h3>
+			<p>
+			  &nbsp&nbsp&nbsp RIKEN Wako campus, Main Research Bldg.345-347 & 535-537 & Zoom <br>
+			  &nbsp&nbsp&nbsp (see <a href="https://www.riken.jp/en/access/wako-map/index.html"> here</a> for Access to Wako Campus)
+				　
+			</p>
+
+			
+			<h3 class="heading-typeB">Invited Speakers</h3>
+			<ul>	
+			  <li> Gergely Fejős (Eötvös Loránd University): "Basics of FRG and its application to gauge theory" </li>
+			  <li> Taiki Haga (Osaka Metropolitan University): "Nonequilibrium phase transition" </li>
+			  <li> Junichi Haruna (Kyoto University): "Gradient flow method and FRG" </li>
+			  <li> Yuya Tanizaki (YITP, Kyoto University): "FRG approach to theta-vacuum structure" </li>
+			  <li> Rina Tazai (YITP, Kyoto University): "FRG approach to condensed matter physics" </li>
+			  <li> Masatoshi Yamada (Jilin University): "Asymtotic safety" </li>
+			  <li> Shunsuke Yabunaka (JAEA): "Analysing critical phenomena using FRG" </li>
+			  <li> Takeru Yokota (RIKEN iTHEMS): "Application of FRG to nucelar physics" </li>
+			</ul>
+			<h3 class="heading-typeB">Invited Lecturer</h3>
+			<ul>	
+			  <li> Nobuyoshi Ohta (National Central University): "Introduction to the Quantum Theory of Gravity via Asymptotic Safety" </li>
+			</ul>
+
+
+			<h3 class="heading-typeB">Registration information</h3>
+				<p>
+				  We accept online participants via Zoom. Please register from the registration page.
+				  <br>
+				  <b> The registration deadline is <font color="red">2023/1/18 (Wed.)</font>.
+				  </b>
+				</p>
+			<h3 class="heading-typeB">Organizers</h3>
+			<ul>	
+				<li> Masaru Hongo (Niigata University/RIKEN iTHEMS) </li>
+				<li> Ryo Namba (RIKEN iTHEMS) </li>
+				<li> Gergely Fejős (Eötvös Loránd University) </li>
+				<li> Tetsuo Hatsuda (RIKEN iTHEMS) </li>
+				
+			</ul>
+
+
+
+		</header>
+
+
+		
+	</article>
+	</div>
+
+
+
+</body>
+
+</html>
