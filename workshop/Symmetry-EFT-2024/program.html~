@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+	<meta charset="utf-8">
+	<title>FRG workshop 2023 in RIKEN</title>
+<link rel="stylesheet" href="common/css/normalize.css">
+<link rel="stylesheet" href="common/css/style.css">
+</head>
+<body>
+
+<div id="page">
+<p align="center"> RIKEN iTHEMS Workshop 2023 </p>
+<header id="pageHead">
+  <h1 id="siteTitle" align="center">
+    Functional Renormalization Group at RIKEN 2023<br>
+    －From condensed matter and particle physics to gravity－ 
+	</h1>
+	<h3 align="center">
+	  1/21(Sat.)-1/25(Wed.), 2023, RIKEN Wako Campus & Zoom
+ 	</h3>
+		<img src="common/images/img_01_01.jpg" alt ="" width="1000" height="360">
+
+	<nav class="globalNavi">
+		<ul>
+			<li><a href="home.html">Top</a></li>
+			<li class="current"><a href="program.html">Program </a></li>
+			<li><a href="abstracts.html">Abstract </a></li>
+			<li><a href="participants.html">Participant List </a></li>	
+			<li><a href="registration.html">Registration</a></li>
+		</ul>
+	</nav>
+</header>
+
+
+<div id="pageBody">
+	
+	<div id="pageBodyMain">
+	<article class="articleDetail">
+		<header class="articleDetailHead">
+		  <h1 class="pageTitle">Program </h1>
+			<h3 class="heading-typeB"> 1/21 (Sat.) Workshop day @ RIKEN Wako campus, Main Research Bldg. 345-347 </h3>
+			<table>
+				<tr>
+					<th> [JST] 10:00 - 11:00 (40+20) <br></th>
+					<td> Gergely Fejős (Eötvös Loránd University) <br>
+					  <a href="../slides/FRG2023-Fejos.pdf"> 
+					    "Functional renormalization group and its applications to gauge theories"
+					  </a>
+  </td> 
+				</tr>
+				<tr>
+					<th> [JST] 11:00 - 12:00 (40+20) <br></th>
+					<td> Yuya Tanizaki (YITP, Kyoto University) <br>
+					  <a href="../slides/FRG2023-Tanizaki.pdf">
+					    "Nonperturbative anomaly and Functional RG"
+					  </a>
+  </td> 
+				</tr>
+				<tr>
+					<td colspan="2">&nbsp&nbsp&nbsp(Lunch: 12:00 - 13:30)</td>
+				</tr>
+				<tr>
+					<th> [JST] 13:30 - 14:30 (40+20) <br></th>
+					<td> Takeru Yokota (RIKEN iTHEMS) <br>
+					  <a href="../slides/FRG2023-Yokota.pdf">
+					    "Density-based functional renormalization group for quantum many-body problems"
+					  </a>
+  </td> 
+				</tr>
+				<tr>
+					<th> [JST] 14:30 - 15:30 (40+20) <br></th>
+					<td> Junichi Haruna (Kyoto University) <br>
+					  <a href="../slides/FRG2023-Haruna.pdf">
+					    "Gradient Flow Exact Renormalization Group and Scalar Field Theories"
+					  </a>
+  </td> 
+				</tr>
+				<tr>
+					<td colspan="2"> &nbsp&nbsp&nbsp (Free discussion: 15:30 - 17:00) </td>
+				</tr>
+			</table>
+			<!-- <h3 class="heading-typeC"> <u>Free discussion time</u></h3> -->
+			<!-- <ul> -->
+			<!--   <li> 10:15-12:00 and 15:00-16:30 in Japan Standard Time -->
+			<!--   </li>  -->
+			<!-- </ul> -->
+
+			
+			<h3 class="heading-typeB"> 1/22 (Sun.) Workshop day @ RIKEN Wako campus, Main Research Bldg. 345-347 </h3>
+			<table>
+				<tr>
+					<th> [JST] 10:00 - 11:00 (40+20) <br></th>
+					<td> Rina Tazai (YITP, Kyoto University) <br>
+					  <a href="../slides/FRG2023-Tazai.pdf">
+					    "Permanent Loop Current in Strongly Correlated Electron Systems based on fRG"
+					  </a>
+  </td> 
+				</tr>
+				<tr>
+					<th> [JST] 11:00 - 12:00 (40+20) <br></th>
+					<td> Shunsuke Yabunaka (JAEA) <br>
+					  <a href="../slides/FRG2023-Yabunaka.pdf">
+					    "Incompleteness of the Large N Analysis of the O(N) Models:<br> Nonperturbative Cuspy Fixed Points and their Nontrivial Homotopy at finite N"
+					  </a>
+  </td> 
+				</tr>
+				<tr>
+					<td colspan="2">&nbsp&nbsp&nbsp(Lunch: 12:00 - 13:30)</td>
+				</tr>
+				<tr>
+					<th> [JST] 13:30 - 14:30 (40+20) <br></th>
+					<td> Taiki Haga (Osaka Metropolitan University) <br>
+					  <a href="../slides/FRG2023-Haga.pdf">
+					    "Functional Renormalization Group Analysis of Driven Disordered Systems"
+					  </a>
+  </td> 
+				</tr>
+				<tr>
+					<th> [JST] 14:30 - 15:30 (40+20) <br></th>
+					<td> Masatoshi Yamada (Jilin University) <br>
+					  <a href="../slides/FRG2023-Yamada.pdf">
+					    "Functional renormalization group approach to asymptotically safe gravity"
+					  </a>
+  </td> 
+				</tr>
+				<tr>
+					<td colspan="2"> &nbsp&nbsp&nbsp (Free discussion: 15:30 - 17:00) </td>
+				</tr>
+			</table>
+			<!-- <h3 class="heading-typeC"> <u>Free discussion time</u></h3> -->
+			<!-- <ul> -->
+			<!--   <li> 10:15-12:00 and 15:00-16:30 in Japan Standard Time -->
+			<!--   </li>  -->
+			<!-- </ul> -->
+
+			<h3 class="heading-typeB"> 1/24 (Tue.) Lecture day @ RIKEN Wako campus, Main Research Bldg. 535-537 </h3>
+			<table>
+				<tr>
+					<td colspan="2">&nbsp&nbsp&nbsp(Free discussion: 9:30 - 10:30) </td>
+				</tr>
+				<tr>
+					<th> [JST] 10:30 - 12:00 <br></th>
+					<td> Nobuyoshi Ohta (National Central University) <br>
+					    "Introduction to the Quantum Theory of Gravity via Asymptotic Safety (Lecture 1)"
+					</td> 
+				</tr>
+				<tr>
+					<td colspan="2">&nbsp&nbsp&nbsp(Lunch: 12:00 - 13:30)</td>
+				</tr>
+				<tr>
+					<th> [JST] 13:30 - 15:00 <br></th>
+					<td> Nobuyoshi Ohta (National Central University) <br>
+					    "Introduction to the Quantum Theory of Gravity via Asymptotic Safety (Lecture 2)"
+					</td> 
+				</tr>
+				<tr>
+					<td colspan="2">&nbsp&nbsp&nbsp(Break: 15:00 - 15:30) </td>
+				</tr>
+				<tr>
+					<th> [JST] 15:30 - 17:00 <br></th>
+					<td> Nobuyoshi Ohta (National Central University) <br>
+					    "Introduction to the Quantum Theory of Gravity via Asymptotic Safety (Lecture 4)"
+					</td> 
+				</tr>
+			</table>
+
+			<h3 class="heading-typeB"> 1/25 (Wed.) Lecture day @ RIKEN Wako campus, Main Research Bldg. 535-537 </h3>
+			<table>
+				<tr>
+					<td colspan="2">&nbsp&nbsp&nbsp(Free discussion: 9:30 - 10:30) </td>
+				</tr>
+				<tr>
+					<th> [JST] 10:30 - 12:00 <br></th>
+					<td> Nobuyoshi Ohta (National Central University) <br>
+					    "Introduction to the Quantum Theory of Gravity via Asymptotic Safety (Lecture 4)"
+					</td> 
+				</tr>
+				<tr>
+					<td colspan="2">&nbsp&nbsp&nbsp(Lunch: 12:00 - 13:30)</td>
+				</tr>
+				<tr>
+					<th> [JST] 13:30 - 15:00 <br></th>
+					<td> Nobuyoshi Ohta (National Central University) <br>
+					    "Introduction to the Quantum Theory of Gravity via Asymptotic Safety (Lecture 5)"
+					</td> 
+				</tr>
+				<tr>
+					<td colspan="2">&nbsp&nbsp&nbsp(Break: 15:00 - 15:30) </td>
+				</tr>
+				<tr>
+					<th> [JST] 15:30 - 17:00 <br></th>
+					<td> Nobuyoshi Ohta (National Central University) <br>
+					    "Introduction to the Quantum Theory of Gravity via Asymptotic Safety (Lecture 6)"
+					</td> 
+				</tr>
+			</table>
+			
+			
+		</header>
+		<section class="articleDetailBody">
+
+		
+	</article>
+	</div>
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+	<meta charset="utf-8">
+	<title>Resurgence 2020 in YITP</title>
+<link rel="stylesheet" href="../common/css/normalize.css">
+<link rel="stylesheet" href="../common/css/style.css">
+</head>
+<body>
+
+<div id="page">
+<p align="center"> YITP-RIKEN iTHEMS Molecule-type Workshop 2020 </p>
+<header id="pageHead">
+  <h1 id="siteTitle" align="center">
+    Potential Toolkit to Attack Nonperturbative Aspects of QFT<br>
+    －Resurgence and related topics－ 
+	</h1>
+	<h3 align="center">
+	  9/7-9/25, 2020, YITP (Kyoto University), Zoom, and Mozilla hubs
+ 	</h3>
+		<img src="../common/images/img_01_01.jpg" alt ="" width="1000" height="335">
+
+	<nav class="globalNavi">
+		<ul>
+			<li><a href="../home/index.html">Top</a></li>
+			<li><a href="../program/index.html">Program </a></li>
+			<li><a href="../abstracts/index.html">Abstract </a></li>
+			<li><a href="../participants/index.html">Participant List </a></li>	
+			<li class="current"><a href="index.html">Registration</a></li>
+		</ul>
+	</nav>
+</header>
+
+
+<div id="pageBody">
+	
+	<div id="pageBodyMain">
+	<article class="articleDetail">
+		<header class="articleDetailHead">
+
+		  <p>
+		    <b>
+		      Please register from
+		      <a href="https://docs.google.com/forms/d/e/1FAIpQLSets7AQft0p-fEc63GxD87jkDYwik9HHwrX-7WMr5MLV0D_AA/viewform?usp=pp_url&entry.1677952774=9/7+(Mon.)-9/11+(Fri.)&entry.1677952774=9/18+(Fri.)&entry.1677952774=9/21+(Mon.)-9/25+(Fri.)">here</a>.
+		      The registration deadline is  <font color="red">8/24 (Mon.)</font> for poster presentations, and <font color="red">9/4(Fri)</font> for online paticipants.
+			</b>
+		  </p>
+
+		  
+		</header>
+		<section class="articleDetailBody">
+	
+
+		
+	</article>
+	</div>
+
+
+
+</body>
+
+</html>

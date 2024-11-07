@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+	<meta charset="utf-8">
+	<title>FRG workshop 2023 in RIKEN</title>
+<link rel="stylesheet" href="common/css/normalize.css">
+<link rel="stylesheet" href="common/css/style.css">
+</head>
+<body>
+
+<div id="page">
+<p align="center"> RIKEN iTHEMS Workshop 2023 </p>
+<header id="pageHead">
+  <h1 id="siteTitle" align="center">
+    Functional Renormalization Group at RIKEN 2023<br>
+    －From condensed matter and particle physics to gravity－ 
+	</h1>
+	<h3 align="center">
+	  1/21(Sat.)-1/25(Wed.), 2023, RIKEN Wako Campus & Zoom
+ 	</h3>
+		<img src="common/images/img_01_01.jpg" alt ="" width="1000" height="360">
+
+	<nav class="globalNavi">
+		<ul>
+			<li><a href="home.html">Top</a></li>
+			<li><a href="program.html">Program </a></li>
+			<li class="current"><a href="abstracts.html">Abstract </a></li>
+			<li><a href="participants.html">Participant List </a></li>	
+			<li><a href="registration.html">Registration</a></li>
+		</ul>
+	</nav>
+</header>
+
+
+<div id="pageBody">
+	
+	<div id="pageBodyMain">
+	<article class="articleDetail">
+		<header class="articleDetailHead">
+			<h1 class="pageTitle">Abstracts</h1>
+			
+			<h3 class="heading-typeB"> Invited Talks </h3>
+			<ul>
+			  <li> <b> Gergely Fejős (Eötvös Loránd University): "TBA" </b><br>
+			    　TBA
+			  </li>	  
+			  <li> <b> Taiki Haga (Osaka Metropolitan University): "Functional Renormalization Group Analysis of Driven Disordered Systems" </b><br>
+			    　It has been an important issue in statistical mechanics to clarify how quenched disorder affects the large-scale behavior of interacting systems. In this talk, I will discuss what happens when a disordered system is driven far from thermal equilibrium. As a typical model of a driven disordered system, I consider an elastic manifold driven at a constant velocity over a random potential. First, I will present the functional renormalization group (FRG) analysis for the zero-temperature case. The key concept here is the dimensional reduction [1, 2], which predicts that the large-scale behavior of driven disordered systems at zero temperature is equivalent to that of pure systems in one lower dimension at finite temperature. I discuss the conditions under which the dimensional reduction holds or fails. As a special case of this analysis, I predict that the Berezinskii—Kosterlitz—Thouless transition occurs in a three-dimensional driven random field XY model [3]. Next, I will present the FRG analysis for the finite-temperature case. Since temperature is a relevant parameter in the presence of a driving, the introduction of thermal fluctuations can significantly change the large-scale behavior of the system [4]. <br>
+[1] Taiki Haga, J. Stat. Mech. (2019) 073301 <br>
+[2] Taiki Haga, Phys. Rev. B 96, 184202 (2017) <br>
+[3] Taiki Haga, Phys. Rev. E 98, 032122 (2018) <br>
+[4] Taiki Haga, in preparation <br>
+			  </li>	  
+			  <li> <b> Junichi Haruna (Kyoto University): "Gradient Flow Exact Renormalization Group and Scalar Field Theories" </b><br>
+			    　Gradient Flow Exact Renormalization Group (GFERG) [1] is a framework for defining Wilson effective actions via a gradient flow equation. One of its advantages is that it can define RG flows which respect the global structure of the field space, such gauge symmetry or information on the target space. In this talk, after a brief review of GFERG, we discuss the fixed point structure of the GFERG equations associated with a general gradient flow equation of scalar field theories based on [2]. If time permits, we also present some recent developments on GFERG.<br>
+[1] H. Sonoda and H. Suzuki, PTEP2021 No.2, 023B05 (2021), [arXiv:2012.03568 [hep-th]]<br>
+[2] Y.Abe, Y.Hamada and J.Haruna, PTEP2022, No.3, 033B03 (2022), [arXiv:2201.04111 [hep-th]]
+			  </li>	  
+			  <li> <b> Yuya Tanizaki (YITP, Kyoto University): "Nonperturbative anomaly and Functional RG" </b><br>
+			    　Topological phases of matter are often characterized by nonlocal order parameters. Functional renormalization group (FRG) is a powerful computational tool for studying conventional phases of matter characterized by local order parameters, and it would be an interesting question if it can also be applied to topological phases. As a prototypical example, we study the applicability of FRG in the context of quantum mechanics on $S^1$ with the topological $\theta$ angle. We will give a detailed discussion on the exact property of FRG in this toy example, and emphasize the importance of the nonlocal feature of the effective action. <br>
+This talk is based on the work in collaboration with Kenji Fukushima and Takuya Shimazaki, <a href="https://arxiv.org/abs/2202.00375">https://arxiv.org/abs/2202.00375</a>. 
+
+			  </li>	  
+			  <li> <b> Rina Tazai (YITP, Kyoto University): "Permanent Loop Current in Strongly Correlated Electron Systems based on fRG" </b><br>
+			    　Various quantum phase transitions in strongly correlated electron systems is one of the central issues in condensed matter physics. The recent discovery of "loop current order," which induces a permanent current, has expanded the frontier of this field. The origin of loop current order is a higher-order many-body effects among electrons, which has been extremely difficult to elucidate. In this study, we tackle this difficult problem by developing the many-body technique based on the N-patch functional renormalization group (fRG) study.
+
+			  </li>	  
+			  <li> <b> Masatoshi Yamada (Jilin University): "Functional renormalization group approach to asymptotically safe gravity" </b><br>
+			    　I explain the recent development of asymptotically safe gravity by using the functional renormalization group. Asymptotically safe gravity is one of candidates for quantum gravity non-perturbatively formulated. An essential point is the existence of non-trivial UV fixed point in gravitational interactions. The functional renormalization group studies for various truncated systems have been performed to explore such a fixed point and have shown the evidences of asymptotically safe gravity. For gravity-matter systems, the asymptotic safety scenario has strong predictivity for the matter dynamics and thus provides hints for cosmology and beyond  the standard model. In this talk, an example of possible extensions of the standard model is introduced.
+			  </li>	  
+			  <li> <b> Shunsuke Yabunaka (JAEA): "Incompleteness of the Large N Analysis of the O(N) Models: Nonperturbative Cuspy Fixed Points and their Nontrivial Homotopy at finite N" </b><br>
+			    　We summarize the usual implementations of the large N limit of O(N) models and show in detail why and how they can miss some physically important fixed points when they become singular in the limit N to &infin;. Using Wilson's renormalization group in its functional nonperturbative versions, we show how the singularities build up as N increases. In the Wilson-Polchinski version of the nonperturbative renormalization group, we show that the singularities are cusps, which become boundary layers for finite but large values of N. The corresponding fixed points being never close to the Gaussian, are out of reach of the usual perturbative approaches. We find four new fixed points and study them in all dimensions and for all N>0 and show that they play an important role for the tricritical physics of O(N) models. Finally, we show that some of these fixed points are bi-valued when they are considered as functions of d and N thus revealing important and nontrivial homotopy structures. The Bardeen-Moshe-Bander phenomenon that occurs at N=&infin; and d=3 is shown to play a crucial role for the internal consistency of all our results.
+
+			  </li>	  
+			  <li> <b> Takeru Yokota (RIKEN iTHEMS): "Density-based functional renormalization group for quantum many-body problems" </b><br>
+			    　I will discuss a functional-renormalization-group-inspired method for density functional theory (DFT), which is widely used for quantum many-body systems including nuclei and electrons. A crucial point of DFT is the construction of the energy density functional, which determines the accuracy of a DFT calculation. For this problem, Polonyi, Sailer, and Schwenk proposed a method based on an evolution equation for the two-particle point irreducible effective action. In this talk, I will introduce such a method and talk about recent progress in this direction, which includes applications to nuclei and electrons.
+			  </li>	  
+  			  <!-- <li> <b> Zhiwei Du (Fudan University)："Hydrodynamic attractors in viscous Hubble flow" </b><br> -->
+			  <!--   　The gradient expansion solutions to hydrodynamic equations are found to be divergent in many cases. The application of resurgence theory rescues the divergent series solutions and reproduces hydrodynamic attractors in Bjorken flow[1,2] and Gubser flow[3,4]. In this poster, we consider a viscous fluid system undergoing Hubble flow at a controlled rate and study the associated attractor solution in Israel-Stewart fluid theory. We obtain the analytical attractor solution from perturbative series by Borel re-summation. It corresponds well to the late-time limit of the numerical solutions. Furthermore, with the tool of alien calculus[5], we demonstrate that only the 1st order non-hydrodynamic mode appears in the viscous Hubble flow. <br> -->
+			  <!--   [1] M. P. Heller and M. Spalínski, -->
+			  <!--   <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.072501"> Phys. Rev. Lett. 115, 072501 (2015)</a>. <br> -->
+			  <!--   [2] P. Romatschke, -->
+			  <!--   <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.012301"> Phys. Rev. Lett. 120, 012301 (2018)</a>. <br> -->
+			  <!--   [3] G. S. Denicol and J. Noronha, <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.99.116004"> Phys. Rev. D 99, 116004 (2019)</a>. <br> -->
+			  <!--   [4] A. Behtash et al., -->
+			  <!--   <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.97.044041">Phys. Rev. D 97, 044041 (2018)</a>. <br> -->
+			  <!--   [5] I. Aniceto and R. Schiappa, -->
+			  <!--   <a href="https://link.springer.com/article/10.1007%2Fs00220-014-2165-z">Commun. Math. Phys. 335.1, 183 (2015)</a>. <br> -->
+			  <!-- </li> -->
+  			  <!-- <li> <b> Takuya Shimazaki (The University of Tokyo)："Lefschetz thimble application to the Schwinger mechanism" </b><br> -->
+			  <!--   　Dykhne–Davis–Pechukas (DDP) method is a common approximation scheme for the transition probability in two-level quantum systems, as realized in the Landau–Zener effect, leading to an exponentially damping form comparable to the Schwinger pair production rate. We analyze the foundation of the DDP method using a modern complex technique inspired by the Lefschetz-thimble method. We derive an alternative and more adaptive formula that is useful even when the DDP method is inapplicable. As a benchmark, we study the modified Landau–Zener model and compare results from the DDP and our methods. We then revisit a derivation of the Schwinger Mechanism of particle production under electric fields using the DDP and our methods. We find that the DDP method gets worse for the Sauter type of short-lived electric pulse, while our method is still a reasonable approximation. We also study the Dynamically Assisted Schwinger Mechanism in two methods. <br> -->
+			  <!--   <u>Ref</u>. K. Fukushima, T. Shimazaki, -->
+			  <!--   <a href="https://doi.org/10.1016/j.aop.2020.168111">Annals Phys. 415 (2020) 168111</a> -->
+			  <!-- </li>			   -->
+			</ul>
+			<h3 class="heading-typeB"> Invited Lecture </h3>
+			<ul>
+			  <li> <b> Nobuyoshi Ohta (National Central University): "TBA" </b><br>
+			    　TBA
+			  </li>	  
+			</ul>
+			
+
+		</header>
+		<section class="articleDetailBody">
+	
+
+		
+	</article>
+	</div>
+
+
+
+</body>
+
+</html>
